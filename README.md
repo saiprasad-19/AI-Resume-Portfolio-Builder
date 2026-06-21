@@ -1,6 +1,25 @@
 # 🚀 AI Resume & Portfolio Builder
 
 An AI-powered web application that generates ATS-friendly resumes, professional cover letters, and portfolio content using Groq's Llama 3 model.
+## 📸 Application Screenshots
+
+### Home Page
+![Home Page](app%20screenshots/homepage.png)
+
+### Features & Services
+![Services](app%20screenshots/services.png)
+
+### Resume Generation
+![Resume Generation](app%20screenshots/generated%20resume.png)
+
+### Cover Letter Generation
+![Cover Letter Generation](app%20screenshots/generated%20coverletter.png)
+
+### Portfolio Generation
+![Portfolio Generation](app%20screenshots/generated%20portfolio%20content.png)
+
+### Portfolio Generation (Additional Example)
+![Portfolio Generation 2](app%20screenshots/generated%20portfolio%20content2.png)
 
 ## 🌐 Live Demo
 [Live Application](https://ai-resume-portfolio-builder-cdpdnxsvhnvueq6yhuaclm.streamlit.app/)
